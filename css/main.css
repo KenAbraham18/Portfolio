@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Roboto Slab;
+  src: url(sansation_light.woff);
+}
+
+div {
+  font-family: myFirstFont;
