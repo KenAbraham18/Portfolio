@@ -1,7 +1,7 @@
-@font-face {
-  font-family: Roboto Slab;
-  src: url(sansation_light.woff);
+img{
+  height:400px;
 }
-
-div {
-  font-family: myFirstFont;
+body {
+  background-color: #005F67;
+font-family: 'Roboto Slab', serif;
+}
